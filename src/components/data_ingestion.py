@@ -11,7 +11,7 @@ from dataclasses import dataclass
 from src.components.data_tranformation import DataTransformation
 from src.components.data_tranformation import DataTransformationConfig
 
-from src.components.model_trainer import ModelTrainer, ModeltrainerConfig
+from src.components.model_trainer import ModelTrainer, ModelTrainerConfig
 
 #data ingestion config 
 @dataclass
